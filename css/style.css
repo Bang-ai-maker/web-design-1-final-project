@@ -3,7 +3,7 @@ html {
     font-family: 'Roboto Condensed', sans-serif;
     }
 
-.bg-black {  
+.blue {  
     background-color: black;
 }
 
@@ -18,7 +18,7 @@ header ul {
     display: flex;
 }
 
-.hero-img {  
+.person-img {  
     display: block; 
     margin: 0 auto;
 }
@@ -27,7 +27,7 @@ img {
     width: 100%;
 }
 
-.wrapper {  
+.bw {  
     max-width: 1200px;  
     margin: 0 auto;  
     padding: 2em 0;
@@ -124,11 +124,11 @@ article .price {
      max-width: 60%;  margin: 0 auto;
 }
 
-.wrapper cite {  
+.bw cite {  
     color: lightgrey;
 }
 
-.quote {  
+.new {  
     color: white; 
      background-color: black;
 }
@@ -165,10 +165,6 @@ article .price {
 
 .flex blockquote {  
     width: 60%;  text-align: center;
-}
-
-.h2 {  
-    text-align: center;
 }
 
 .name {  
